@@ -13,7 +13,7 @@ const EventPractice = () => {
         setMessage('');
     });
 
-    const onKeyPress = e => {
+    const onKeyPress = e => { 
         if ( e.key === 'Enter' ) {
             onClick();
         }
