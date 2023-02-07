@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 
 const MyComponent = ({ name, favoriteNumber, children }) => {
 
-
    return (
     <div>
         제 이름은 { name } 입니다.
