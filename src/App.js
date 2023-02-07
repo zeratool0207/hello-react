@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Say from './Say';
+import EventPracticeLv2 from './EventPracticeLv2';
 
 function App() {
 
   return (
     <>
       <div className='react'> 
-       <Say />
+       <EventPracticeLv2 />
       </div>
     </>
   );
